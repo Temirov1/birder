@@ -27,6 +27,11 @@ BIRDER_DB_DIALECT=
 
 # Web Server Configuration
 BIRDER_PORT=
+
+
+# Web App Configurations
+BIRDER_ADMIN_LOGIN=
+BIRDER_ADMIN_PASSWORD=
 ```
 3. Install all the dependecnies.
 
